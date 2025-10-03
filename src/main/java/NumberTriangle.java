@@ -100,6 +100,7 @@ public class NumberTriangle {
             }
         }
         return curr.getRoot();
+        // edited this in branch
     }
 
     /** Read in the NumberTriangle structure from a file.
